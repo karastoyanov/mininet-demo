@@ -169,5 +169,4 @@ mininet> h2 curl h1
 ```
 
 ### 🖼️ Topology Graphic
-
-![[Pasted image 20241027010326.png]]
+![[topo_domo.png.png]]
