@@ -30,8 +30,11 @@ This project demonstrates a simple virtual network topology using the Mininet Py
 The Python API will simulate mininet virtual network with two switches (s1, s2) and three hosts (h1, h2, h3) and will create links between the network components:
 
 `h1 -- s1` with bandwidth 10Mbps
+
 `h2 -- s1` with bandwidth 20Mbps
+
 `h3 -- s2` with bandwidth 15Mbps
+
 `s1 -- s2` with bandwidth 25Mbps
 
 ### 🖥️ **Basic commands**
