@@ -172,4 +172,4 @@ mininet> h2 curl h1
 ```
 
 ### 🖼️ Topology Graphic
-![topo_domo.png.png](https://github.com/karastoyanov/mininet-demo/blob/master/topo_demo.png)
+![topo_domo.png.png](https://github.com/user-attachments/assets/d33d55db-3b98-43eb-a338-197e4c78837c)
